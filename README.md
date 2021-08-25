@@ -1,6 +1,6 @@
 # Cplusplus-Program
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-The Product Owner will have face to face communication with the customers.  The Product Owner will learn and understand the use r needs for the program and create a product backlog for the program.  This product backlog will have prioritized user stories of what the end user would like to the program to do.  Prioritizing the stories allows the development team to work on the tasks to implement them into the program. 
+The Product Owner will have face to face communication with the customers.  The Product Owner will learn and understand the user needs for the program and create a product backlog for the program.  This product backlog will have prioritized user stories of what the end user would like to the program to do.  Prioritizing the stories allows the development team to work on the tasks to implement them into the program. 
 
 How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 Developing programs will all now be done with Scrum-agile methodology.  Incorporating Scrum Sprint methods for all future development work.  Sprint planning, Daily Sprint meetings, Sprint review and Sprint retrospective will allow developing programs within a team with efficiency.
